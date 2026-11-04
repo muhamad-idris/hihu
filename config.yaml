@@ -1,0 +1,8 @@
+model_list:
+  - model_name: gpt-6.1-terra-uncensored
+    params:
+      model: gpt-6.1-terra-uncensored
+      api_base: https://api.freepi.ai/v1
+      api_key: eyJhbGciOiJIUzI1NiJ9.eyJndWVzdCI6dHJ1ZSwic3ViIjoiNWE0MmE2YmItMWMwZi00NTQ4LTg3NTMtOWUxMjRiNmIxOGEyIiwiaWF0IjoxNzkzNzk4NDY0LCJleHAiOjE3OTQ0MDMyNjR9.76rfS_Wez7efaqU1AnKZI4Q1JWfcfLHnRIbwnaNfQX0
+      initial_prompt: >
+          
